@@ -2,7 +2,7 @@
 
 ## What it does
 
-Adds a checkbox to operation types to set default transfer mode: **Immediate** or **Planned**.
+Adds a checkbox to operation types to set default transfer mode to be **Planned Transfer** option.
 
 ## Why you need this
 
@@ -50,3 +50,24 @@ If you have the OCA `stock_picking_import_serial_number` module installed:
 **Note**: Without this module, you'd have to manually create each transfer in planned mode every time.
 
 That's it! Now your serial number imports will work properly.
+
+## Author
+
+Created by **Dino Herlambang**
+
+## License
+
+This module is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+You are free to:
+- Use this software for any purpose
+- Study and modify the source code
+- Distribute copies
+- Distribute modified versions
+
+Under the following conditions:
+- Any derivative work must also be licensed under GPL-3.0
+- You must include the original copyright notice
+- You must include the license text
+
+For more details, see the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.html).

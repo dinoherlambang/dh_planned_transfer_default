@@ -10,6 +10,7 @@ You can configure each operation type to default to either:
 - Planned Transfer (shows Demand column, better for serial number imports)
     """,
     'author': 'Dino Herlambang',
+    'license': 'GPL-3',
     'depends': ['stock'],
     'data': [
         'views/stock_picking_type_views.xml',
